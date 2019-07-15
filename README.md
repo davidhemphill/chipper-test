@@ -6,4 +6,4 @@ Let's open a Pull Request! Again? Again?
 
 Let's do another Pull Request!
 
-Let's update the status. Again! More! More! More! More! More! More! More! More! More! More! More! More! More! More! More! More! More! More! More! More! Moar!
+Let's update the status. Again! Moar!
